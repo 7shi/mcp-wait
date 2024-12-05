@@ -7,5 +7,6 @@ This repository contains implementations of MCP (Model Context Protocol) servers
 
 ## References
 
-- [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)
+- [Model Context Protocol](https://github.com/modelcontextprotocol)
+- [TypeScript server template](https://github.com/modelcontextprotocol/create-typescript-server)
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
