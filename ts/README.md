@@ -7,6 +7,7 @@ This is a TypeScript-based MCP server that implements waiting for a specified nu
 ## Features
 
 ### Tools
+
 - `wait_seconds` - Wait for a specified number of seconds
 
 ## Development
@@ -30,8 +31,8 @@ npm run watch
 
 To use with Claude Desktop, add the server config:
 
-On MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
-On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
+- On MacOS: `~/Library/Application Support/Claude/claude_desktop_config.json`
+- On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 ```json
 {
