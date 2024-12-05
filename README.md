@@ -5,6 +5,10 @@ This repository contains implementations of MCP (Model Context Protocol) servers
 - [TypeScript implementation](ts)
 - [Python implementation](py)
 
+Detailed description (in Japanese)
+
+- https://qiita.com/7shi/items/3bf54f47a2d38c70d39b
+
 ## References
 
 - [Model Context Protocol](https://github.com/modelcontextprotocol)
