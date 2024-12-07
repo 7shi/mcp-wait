@@ -26,7 +26,6 @@ To use with Claude Desktop, add the server config:
         "--directory",
         "/path/to/mcp-wait/py",
         "run",
-        "python",
         "server.py"
       ]
     }
@@ -39,7 +38,7 @@ To use with Claude Desktop, add the server config:
 Since MCP servers communicate over stdio, debugging can be challenging. We recommend using the [MCP Inspector](https://github.com/modelcontextprotocol/inspector), which is available as a package script:
 
 ```bash
-npx @modelcontextprotocol/inspector uv run python server.py
+npx @modelcontextprotocol/inspector uv run server.py
 ```
 
 The Inspector will provide a URL to access debugging tools in your browser.
